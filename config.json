@@ -1,0 +1,4 @@
+{
+    "taWebsocket": "ws://ta.monni.eu:3333",
+    "outgoingWebsocket": "ws://localhost:2223"
+}
